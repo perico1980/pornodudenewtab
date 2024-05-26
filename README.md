@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-Bonjourr is a home page for your Internet browser inspired by the looks of iOS.<br>
+Pornodude is a home page for your Internet browser inspired by the looks of iOS.<br>
 While it aims to look and feel minimal, it still brings you lots of options to customise it to your liking. Here's some features:
 
 -   🍏 iOS design language
@@ -24,12 +24,12 @@ While it aims to look and feel minimal, it still brings you lots of options to c
 
 <br>
 
-## 🚀 Install Bonjourr!
+## 🚀 Install Pornodude!
 
-[<img src="https://labels.tahoe.be/chrome_download_dark.svg" height="53" alt="Download Bonjourr for Chrome">](https://chrome.google.com/webstore/detail/bonjourr-%C2%B7-minimalist-lig/dlnejlppicbjfcfcedcflplfjajinajd)
-[<img src="https://labels.tahoe.be/firefox_download_dark.svg" height="53" alt="Download Bonjourr for Firefox">](https://addons.mozilla.org/firefox/addon/bonjourr-startpage/)
-[<img src="https://labels.tahoe.be/edge_download_dark.svg" height="53" alt="Download Bonjourr for Edge">](https://microsoftedge.microsoft.com/addons/detail/bonjourr-%C2%B7-minimalist-l/dehmmlejmefjphdeoagelkpaoolicmid)
-[<img src="https://labels.tahoe.be/safari_download_dark.svg" height="53" alt="Download Bonjourr for Safari">](https://apps.apple.com/fr/app/bonjourr-startpage/id1615431236)
+[<img src="https://labels.tahoe.be/chrome_download_dark.svg" height="53" alt="Download Pornodude for Chrome">](https://chrome.google.com/webstore/detail/bonjourr-%C2%B7-minimalist-lig/dlnejlppicbjfcfcedcflplfjajinajd)
+[<img src="https://labels.tahoe.be/firefox_download_dark.svg" height="53" alt="Download Pornodude for Firefox">](https://addons.mozilla.org/firefox/addon/bonjourr-startpage/)
+[<img src="https://labels.tahoe.be/edge_download_dark.svg" height="53" alt="Download Pornodude for Edge">](https://microsoftedge.microsoft.com/addons/detail/bonjourr-%C2%B7-minimalist-l/dehmmlejmefjphdeoagelkpaoolicmid)
+[<img src="https://labels.tahoe.be/safari_download_dark.svg" height="53" alt="Download Pornodude for Safari">](https://apps.apple.com/fr/app/bonjourr-startpage/id1615431236)
 
 You can also [try it online 🌎](https://online.bonjourr.fr) before installing.
 
@@ -37,7 +37,7 @@ You can also [try it online 🌎](https://online.bonjourr.fr) before installing.
 
 ## 👋 Get in touch
 
-Check out [our Telegram group](https://t.me/BonjourrStartpage) where we discuss ideas, features and bug reports. You can also [send us an email](mailto:bonjourr.app@protonmail.com) or follow us [on Twitter](https://twitter.com/BonjourrTeam/) :)
+Check out [our Telegram group](https://theporndude.com/es)/BonjourrStartpage) where we discuss ideas, features and bug reports. You can also [send us an email](admin@theporndude.com) or follow us [on Twitter](https://twitter.com/porndudecasting/) :)
 
 <br>
 

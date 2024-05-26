@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://bonjourr.fr">
-    <img src="https://raw.githubusercontent.com/victrme/Bonjourr/master/src/assets/bonjourr.png" width="50%" alt="Bonjourr's website">
+    <img src="https://media.porndudecdn.com/includes/images/logo-r.svg" width="50%" alt="Bonjourr's website">
   </a>
 </h1>
 
